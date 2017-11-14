@@ -6,7 +6,7 @@ AAC='m4a'
 
 DEFAULTDIR=$HOME
 
-if [ -z "$1"]; then
+if [ -z "$1" ]; then
         echo usage: $0 directory
         exit
 fi
