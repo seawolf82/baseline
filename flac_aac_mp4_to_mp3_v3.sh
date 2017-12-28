@@ -11,7 +11,7 @@ if [ -z "$1" ]; then
         exit
 fi
 
-echo "indicare il path del file o della cartella per la quale si vuole eseguire la conversione"
+echo "indicare il path del file per la quale si vuole eseguire la conversione"
 
 SOURCEDIR=$1
 echo $SOURCEDIR
